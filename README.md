@@ -9,22 +9,20 @@
 
 - 🤝 I’m looking for help with [ExtraLayer](https://github.com/ImInTheICU/ExtraLayer)
 
-- 👨‍💻 All of my projects are available at [https://bugley.tk](https://bugley.tk)
-
-- 📝 I regularly write articles on [https://bugley.tk](https://bugley.tk)
+- 👨‍💻 All of my projects are available at [https://www.bugleboy.ml/](https://www.bugleboy.ml/)
 
 - 💬 Ask me about **Lua,Python,HTML,CSS**
 
-- 📫 How to reach me **BugleBoy#1234 Discord, or BugleTV YouTube**
+- 📫 How to reach me **BugleBoy#6467 Discord, or BugleTV YouTube**
 
-- 📄 Know about my experiences [https://bugley.tk](https://bugley.tk)
+- 📄 Know about my experiences [https://www.bugleboy.ml/](https://www.bugleboy.ml/)
 
-- ⚡ Fun fact **I'm a 13 year-old developer**
+- ⚡ Fun fact **I'm a 14 year-old developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/bugletv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bugletv" height="30" width="40" /></a>
-<a href="https://discord.gg/CQdwF97fZq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CQdwF97fZq" height="30" width="40" /></a>
+<a href="https://discord.com/users/719972719336226897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CQdwF97fZq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
