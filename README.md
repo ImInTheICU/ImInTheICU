@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Braiden Plunk (Bugle)</h1>
+<h1 align="center">Hi 👋, I'm Braiden (Bugle)</h1>
 <h3 align="center">A passionate backend & frontend developer from the US.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imintheicu&label=Profile%20views&color=0e75b6&style=flat" alt="imintheicu" /> </p>
