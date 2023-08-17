@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Lua,Python,HTML,CSS**
 
-- 📫 How to reach me **BugleBoy#6467 Discord, or BugleTV YouTube**
+- 📫 How to reach me **pingulovesu Discord, or BugleTV YouTube**
 
 - 📄 Know about my experiences [https://www.bugleboy.ml/](https://www.bugleboy.ml/)
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/bugletv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bugletv" height="30" width="40" /></a>
-<a href="https://discord.com/users/719972719336226897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CQdwF97fZq" height="30" width="40" /></a>
+<a href="https://discord.com/users/1141762773852889140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CQdwF97fZq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
