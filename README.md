@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pingulovesu Discord, or PinguLovesU YouTube**
 
-- 📄 Know about my experiences [https://www.bugleboy.ml/](https://www.bugleboy.ml/)
+- 📄 Know about my experiences [my portfolio]([https://www.bugleboy.ml/](https://buggies-portfolio.vercel.app/))
 
 - ⚡ Fun fact **I'm a 14 year-old developer**
 
