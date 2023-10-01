@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Lua,Python,HTML,CSS**
 
-- 📫 How to reach me **pingulovesu Discord, or PinguLovesU YouTube**
+- 📫 How to reach me **pinglovesu Discord, or PinguLovesU YouTube**
 
 - 📄 Know about my experiences [my portfolio]([https://www.bugleboy.ml/](https://buggies-portfolio.vercel.app/))
 
