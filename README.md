@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Braiden (Pingu)</h1>
+<h1 align="center">Hi 👋, I'm _ (Pingu)</h1>
 <h3 align="center">A passionate backend & frontend developer from the US.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imintheicu&label=Profile%20views&color=0e75b6&style=flat" alt="imintheicu" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Lua,Python,HTML,CSS**
 
-- 📫 How to reach me **pinglovesu Discord, or PinguLovesU YouTube**
+- 📫 How to reach me **pingulovesu Discord, or PinguLovesU YouTube**
 
 - 📄 Know about my experiences [my portfolio]([https://www.bugleboy.ml/](https://buggies-portfolio.vercel.app/))
 
