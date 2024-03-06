@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://cdn.discordapp.com/avatars/1156701175547166850/e5e9550298cd5689067bcefd8990f881.webp" alt="pingulovesu" /> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/avatars/1156701175547166850/03de70812c94e565e0c36559d0e56b2b.webp" alt="pingulovesu" /> </p>
 
-<h1 align="center">Hi 👋, I'm Braiden</h1>
+<h1 align="center">Hi 👋, I'm Christopher</h1>
 <p align="center">Hello, I'm Braiden or known online as PinguLovesYou. <br>My programming consists of game & anti-cheat development. <br>You'll find me on Discord, Twitter, Steam, Roblox and the beaches of Rust!</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imintheicu&label=Profile%20views&color=d400ff&style=flat" alt="imintheicu" /> </p>
