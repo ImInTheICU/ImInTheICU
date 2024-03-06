@@ -28,7 +28,7 @@ I work with {languages_str}.
         """)
 
 Pingu = Human(
-    name="Braiden",
+    name="Christopher",
     birth_year=2008,
     code_languages=["Python", "Lua", "Java", "C#"],
     code_interests=["Game Hacking", "Encryption", "Decryption", "Obfuscation", "Reverse Engineering"]
