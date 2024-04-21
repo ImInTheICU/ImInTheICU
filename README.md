@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://cdn.discordapp.com/avatars/1156701175547166850/03de70812c94e565e0c36559d0e56b2b.webp" alt="pingulovesu" /> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/avatars/1156701175547166850/39f139fd737e588fa2950e65b0b81d83.webp" alt="pingulovesu" /> </p>
 
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <p align="center">Hello, I'm Christopher or known online as PinguLovesYou. <br>My programming consists of game & anti-cheat development. <br>You'll find me on Discord, Twitter, Steam, Roblox and the beaches of Rust!</p>
