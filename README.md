@@ -3,8 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ImInTheICU&show_icons=true&theme=transparent" alt="github" align="right"/>
 </div>
 
-
-
 ```yml
 root@ubuntu:~# sudo apt install penguinos
 root@ubuntu:~# neofetch
