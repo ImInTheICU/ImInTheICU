@@ -1,5 +1,6 @@
 <div align="right">
-  <img src="https://lanyard.cnrad.dev/api/1156701175547166850" alt="discord" align="right"/><br>
+  <img src="https://lanyard.cnrad.dev/api/1156701175547166850" alt="discord" align="right"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ImInTheICU&show_icons=true&theme=transparent" alt="github" align="right"/>
 </div>
 
