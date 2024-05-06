@@ -1,5 +1,7 @@
-<img align="right" src="https://lanyard.cnrad.dev/api/1156701175547166850" alt="discord" style="float: right;"/>
-<h align="right">
+<div style="text-align: right;">
+    <img src="https://lanyard.cnrad.dev/api/1156701175547166850" alt="discord" style="float: right;"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=ImInTheICU" alt="github" style="float: right;"/>
+</div>
 
 ```yml
 root@ubuntu:~# sudo apt install penguinos
