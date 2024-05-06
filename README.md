@@ -1,6 +1,6 @@
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <pre>
+<img align="right" src="https://lanyard.cnrad.dev/api/1156701175547166850" alt="discord" style="float: right;"/>
+<h align="right">
+
 ```yml
 root@ubuntu:~# sudo apt install penguinos
 root@ubuntu:~# neofetch
@@ -25,9 +25,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.
 ```
-        </pre>
-    </div>
-    <div style="flex: 1;">
-        <img align="right" src="https://lanyard.cnrad.dev/api/1156701175547166850" alt="discord" style="float: right;"/>
-    </div>
-</div>
+
