@@ -4,12 +4,13 @@
 ```yml
 root@ubuntu:~# sudo apt install penguinos
 root@ubuntu:~# neofetch
+
 root@ubuntu
 -----------
 Name: Christopher
 Age: 15
 Sex: when?
-Descriptor: "Code is like humor. When you have to explain it, it’s bad." - Pingu 2024 | Backend/Frontend Developer
+Descriptor: "Code is like humor. When you have to explain it, it’s bad."
 Website: nootnoot.dev
 Email: pingu@nootnoot.dev
 ```
