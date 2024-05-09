@@ -7,7 +7,8 @@ root@ubuntu
 Name: Christopher
 Age: 15
 Sex: when?
-Descriptor: "Code is like humor. When you have to explain it, it’s bad."
+Quote: "Code is like humor. When you have to explain it, it’s bad."
+Description: Reverse Engineer | Cheat Developer
 Website: nootnoot.dev
 Email: pingu@nootnoot.dev
 ```
