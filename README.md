@@ -10,7 +10,7 @@ Sex: when?
 Quote: "Code is like humor. When you have to explain it, it’s bad."
 Description: Reverse Engineer | Cheat Developer
 Website: nootnoot.dev
-Email: pingu@nootnoot.dev
+Email: admin@nootnoot.dev
 ```
 
 <a href="https://github.com/ImInTheICU">
